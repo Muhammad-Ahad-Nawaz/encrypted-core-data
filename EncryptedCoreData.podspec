@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name          = 'EncryptedCoreData'
-    s.version       = '3.1'
+    s.version       = '3.2'
     s.license       = 'Apache-2.0'
   
     s.summary       = 'iOS Core Data encrypted SQLite store using SQLCipher'
